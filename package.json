@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "panelists": "./node_modules/.bin/ts-node getPanelists.ts"
+    "panelists": "./node_modules/.bin/ts-node getPanelists.ts",
+    "letters": "./node_modules/.bin/ts-node createLetters.ts"
   },
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
